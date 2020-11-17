@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Photo Hosting Project
-- 🌱 I’m currently learning ML
+- 🔭 I’m currently working on IoT project
+- 🌱 I’m currently learning computer networks
 - 📫 How to reach me: nurik.py.12@gmail.com or telegram: @noogler123 
 
